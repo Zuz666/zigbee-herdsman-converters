@@ -1,5 +1,15 @@
 # Changelog
 
+## [20.47.1](https://github.com/Koenkk/zigbee-herdsman-converters/compare/v20.47.0...v20.47.1) (2024-11-17)
+
+
+### Bug Fixes
+
+* Detect new model of LED2109G6 and fix model of LED2201G8 ([#8330](https://github.com/Koenkk/zigbee-herdsman-converters/issues/8330)) ([df7e3eb](https://github.com/Koenkk/zigbee-herdsman-converters/commit/df7e3eb1c8453ec3702fb5ca2dd68b599c1e7a5a))
+* **detect:** Detect `TRADFRIbulbG125E26WSopal440lm` as IKEA LED1936G5 ([#8328](https://github.com/Koenkk/zigbee-herdsman-converters/issues/8328)) ([c7e6744](https://github.com/Koenkk/zigbee-herdsman-converters/commit/c7e6744be4ee25b5113a0b6487114f316612588e))
+* Fix overall power for TS0601_3_phase_clamp_meter ([#8329](https://github.com/Koenkk/zigbee-herdsman-converters/issues/8329)) ([71b0617](https://github.com/Koenkk/zigbee-herdsman-converters/commit/71b06171d41389afdde402a8f4b6afc7210baf89))
+* Fixed LoraTap SC400ZB-EU calibration time reading ([#8321](https://github.com/Koenkk/zigbee-herdsman-converters/issues/8321)) ([761650e](https://github.com/Koenkk/zigbee-herdsman-converters/commit/761650e1fe2833acd3c02a4722ad6f778b77a80a))
+
 ## [20.47.0](https://github.com/Koenkk/zigbee-herdsman-converters/compare/v20.46.0...v20.47.0) (2024-11-14)
 
 
